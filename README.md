@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @abtowhidi
-- 👀 I’m interested in reading and coding.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me by type @abtowhidi everywhere.
-
-<!---
-abtowhidi/abtowhidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- It's Abdulaziz Towhidi.
+- Figma and Javascript developer.
+- I’m currently learning Machine Learning.
+- I’m looking to collaborate on my projects and others project.
+- How to reach me by type @abtowhidi everywhere.
